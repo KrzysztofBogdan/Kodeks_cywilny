@@ -294,15 +294,24 @@ Pożytkami prawa są dochody, które prawo to przynosi zgodnie ze swym społeczn
 ###### Art. 55[1]
 Przedsiębiorstwo jest zorganizowanym zespołem składników niematerialnych i materialnych przeznaczonym do prowadzenia działalności gospodarczej.
 Obejmuje ono w szczególności:
-  1) oznaczenie indywidualizujące przedsiębiorstwo lub jego wyodrębnione części (nazwa przedsiębiorstwa);
-  2) własność nieruchomości lub ruchomości, w tym urządzeń, materiałów, towarów i wyrobów, oraz inne prawa rzeczowe do nieruchomości lub ruchomości;
-  3) prawa wynikające z umów najmu i dzierżawy nieruchomości lub ruchomości oraz prawa do korzystania z nieruchomości lub ruchomości wynikające z innych stosunków prawnych;
-  4) wierzytelności, prawa z papierów wartościowych i środki pieniężne;
-  5) koncesje, licencje i zezwolenia;
-  6) patenty i inne prawa własności przemysłowej;
-  7) majątkowe prawa autorskie i majątkowe prawa pokrewne;
-  8) tajemnice przedsiębiorstwa;
-  9) księgi i dokumenty związane z prowadzeniem działalności gospodarczej.
+1) oznaczenie indywidualizujące przedsiębiorstwo lub jego wyodrębnione części (nazwa przedsiębiorstwa);
+
+2) własność nieruchomości lub ruchomości, w tym urządzeń, materiałów, towarów i wyrobów, oraz inne prawa rzeczowe do nieruchomości lub ruchomości;
+
+3) prawa wynikające z umów najmu i dzierżawy nieruchomości lub ruchomości oraz prawa do korzystania z nieruchomości lub ruchomości wynikające z innych stosunków prawnych;
+
+4) wierzytelności, prawa z papierów wartościowych i środki pieniężne;
+
+5) koncesje, licencje i zezwolenia;
+
+6) patenty i inne prawa własności przemysłowej;
+
+7) majątkowe prawa autorskie i majątkowe prawa pokrewne;
+
+8) tajemnice przedsiębiorstwa;
+
+9) księgi i dokumenty związane z prowadzeniem działalności gospodarczej.
+
 ###### Art. 55[2]
 Czynność prawna mająca za przedmiot przedsiębiorstwo obejmuje wszystko, co wchodzi w skład przedsiębiorstwa, chyba że co innego wynika z treści czynności prawnej albo z przepisów szczególnych.
 ###### Art. 55[3]
@@ -368,12 +377,18 @@ Zawarcie umowy
 
 §2. Przedsiębiorca składający ofertę w postaci elektronicznej jest obowiązany przed zawarciem umowy poinformować drugą stronę w sposób jednoznaczny i zrozumiały o:
 
-  1) czynnościach technicznych składających się na procedurę zawarcia umowy;
-  2) skutkach prawnych potwierdzenia przez drugą stronę otrzymania oferty;
-  3) zasadach i sposobach utrwalania, zabezpieczania i udostępniania przez przedsiębiorcę drugiej stronie treści zawieranej umowy;
-  4) metodach i środkach technicznych służących wykrywaniu i korygowaniu błędów we wprowadzanych danych, które jest obowiązany udostępnić drugiej stronie;
-  5) językach, w których umowa może być zawarta;
-  6) kodeksach etycznych, które stosuje, oraz o ich dostępności w postaci elektronicznej.
+1) czynnościach technicznych składających się na procedurę zawarcia umowy;
+
+2) skutkach prawnych potwierdzenia przez drugą stronę otrzymania oferty;
+
+3) zasadach i sposobach utrwalania, zabezpieczania i udostępniania przez przedsiębiorcę drugiej stronie treści zawieranej umowy;
+
+4) metodach i środkach technicznych służących wykrywaniu i korygowaniu błędów we wprowadzanych danych, które jest obowiązany udostępnić drugiej stronie;
+
+5) językach, w których umowa może być zawarta;
+
+6) kodeksach etycznych, które stosuje, oraz o ich dostępności w postaci elektronicznej.
+
 §3. Przepis § 2 stosuje się odpowiednio, jeżeli przedsiębiorca zaprasza drugą stronę do rozpoczęcia negocjacji, składania ofert albo do zawarcia umowy w inny sposób.
 
 §4. Przepisy § 1-3 nie mają zastosowania do zawierania umów za pomocą poczty elektronicznej albo podobnych środków indywidualnego porozumiewania się na odległość. Nie stosuje się ich także w stosunkach między przedsiębiorcami, jeżeli strony tak postanowiły.
@@ -498,8 +513,10 @@ Osoba niemogąca pisać, lecz mogąca czytać może złożyć oświadczenie woli
 
 §2. Czynność prawna ma datę pewną także w wypadkach następujących:
 
-  1) w razie stwierdzenia dokonania czynności w jakimkolwiek dokumencie urzędowym - od daty dokumentu urzędowego;
-  2) w razie umieszczenia na obejmującym czynność dokumencie jakiejkolwiek wzmianki przez organ państwowy, organ jednostki samorządu terytorialnego albo przez notariusza - od daty wzmianki.
+1) w razie stwierdzenia dokonania czynności w jakimkolwiek dokumencie urzędowym - od daty dokumentu urzędowego;
+
+2) w razie umieszczenia na obejmującym czynność dokumencie jakiejkolwiek wzmianki przez organ państwowy, organ jednostki samorządu terytorialnego albo przez notariusza - od daty wzmianki.
+
 §3. W razie śmierci jednej z osób podpisanych na dokumencie datę złożenia przez tę osobę podpisu na dokumencie uważa się za pewną od daty śmierci tej osoby.
 
 
@@ -700,10 +717,14 @@ Terminy przedawnienia nie mogą być skracane ani przedłużane przez czynność
 
 ###### Art. 121
 Bieg przedawnienia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu:
-  1) co do roszczeń, które przysługują dzieciom przeciwko rodzicom - przez czas trwania władzy rodzicielskiej;
-  2) co do roszczeń, które przysługują osobom niemającym pełnej zdolności do czynności prawnych przeciwko osobom sprawującym opiekę lub kuratelę - przez czas sprawowania przez te osoby opieki lub kurateli;
-  3) co do roszczeń, które przysługują jednemu z małżonków przeciwko drugiemu - przez czas trwania małżeństwa;
-  4) co do wszelkich roszczeń, gdy z powodu siły wyższej uprawniony nie może ich dochodzić przed sądem lub innym organem powołanym do rozpoznawania spraw danego rodzaju - przez czas trwania przeszkody.
+1) co do roszczeń, które przysługują dzieciom przeciwko rodzicom - przez czas trwania władzy rodzicielskiej;
+
+2) co do roszczeń, które przysługują osobom niemającym pełnej zdolności do czynności prawnych przeciwko osobom sprawującym opiekę lub kuratelę - przez czas sprawowania przez te osoby opieki lub kurateli;
+
+3) co do roszczeń, które przysługują jednemu z małżonków przeciwko drugiemu - przez czas trwania małżeństwa;
+
+4) co do wszelkich roszczeń, gdy z powodu siły wyższej uprawniony nie może ich dochodzić przed sądem lub innym organem powołanym do rozpoznawania spraw danego rodzaju - przez czas trwania przeszkody.
+
 ###### Art. 122
 §1. Przedawnienie względem osoby, która nie ma pełnej zdolności do czynności prawnych, nie może skończyć się wcześniej niż z upływem lat dwóch od ustanowienia dla niej przedstawiciela ustawowego albo od ustania przyczyny jego ustanowienia.
 
@@ -714,9 +735,12 @@ Bieg przedawnienia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu:
 ###### Art. 123
 §1. Bieg przedawnienia przerywa się:
 
-  1) przez każdą czynność przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowania roszczeń danego rodzaju albo przed sądem polubownym, przedsięwziętą bezpośrednio w celu dochodzenia lub ustalenia albo zaspokojenia lub zabezpieczenia roszczenia;
-  2) przez uznanie roszczenia przez osobę, przeciwko której roszczenie przysługuje;
-  3) przez wszczęcie mediacji.
+1) przez każdą czynność przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowania roszczeń danego rodzaju albo przed sądem polubownym, przedsięwziętą bezpośrednio w celu dochodzenia lub ustalenia albo zaspokojenia lub zabezpieczenia roszczenia;
+
+2) przez uznanie roszczenia przez osobę, przeciwko której roszczenie przysługuje;
+
+3) przez wszczęcie mediacji.
+
 §2. (uchylony).
 
 ###### Art. 124
@@ -1018,8 +1042,10 @@ Przepisy dwóch artykułów poprzedzających stosuje się odpowiednio w wypadku,
 
 §2. W razie braku takiego porozumienia spłaty przysługujące współwłaścicielom mogą być obniżone. Przy określaniu stopnia ich obniżenia bierze się pod uwagę:
 
-  1) typ, wielkość i stan gospodarstwa rolnego będącego przedmiotem zniesienia współwłasności;
-  2) sytuację osobistą i majątkową współwłaściciela zobowiązanego do spłat i współwłaściciela uprawnionego do ich otrzymania.
+1) typ, wielkość i stan gospodarstwa rolnego będącego przedmiotem zniesienia współwłasności;
+
+2) sytuację osobistą i majątkową współwłaściciela zobowiązanego do spłat i współwłaściciela uprawnionego do ich otrzymania.
+
 §3. Obniżenie spłat, stosownie do przepisu paragrafu poprzedzającego, nie wyklucza możliwości rozłożenia ich na raty lub odroczenia terminu ich zapłaty, stosownie do przepisu art. 212 § 3.
 
 §4. Przepisów § 2 i 3 nie stosuje się do spłat na rzecz małżonka w razie zniesienia współwłasności gospodarstwa rolnego, które stosownie do przepisów Kodeksu rodzinnego i opiekuńczego należy do wspólnego majątku małżonków.
@@ -1122,10 +1148,14 @@ Wieczysty użytkownik uiszcza przez czas trwania swego prawa opłatę roczną.
 
 §2. Jeżeli oddanie gruntu w użytkowanie wieczyste następuje w celu wzniesienia na gruncie budynków lub innych urządzeń, umowa powinna określać:
 
-  1) termin rozpoczęcia i zakończenia robót;
-  2) rodzaj budynków lub urządzeń oraz obowiązek ich utrzymywania w należytym stanie;
-  3) warunki i termin odbudowy w razie zniszczenia albo rozbiórki budynków lub urządzeń w czasie trwania użytkowania wieczystego;
-  4) wynagrodzenie należne wieczystemu użytkownikowi za budynki lub urządzenia istniejące na gruncie w dniu wygaśnięcia użytkowania wieczystego.
+1) termin rozpoczęcia i zakończenia robót;
+
+2) rodzaj budynków lub urządzeń oraz obowiązek ich utrzymywania w należytym stanie;
+
+3) warunki i termin odbudowy w razie zniszczenia albo rozbiórki budynków lub urządzeń w czasie trwania użytkowania wieczystego;
+
+4) wynagrodzenie należne wieczystemu użytkownikowi za budynki lub urządzenia istniejące na gruncie w dniu wygaśnięcia użytkowania wieczystego.
+
 ###### Art. 240
 Umowa o oddanie gruntu Skarbu Państwa lub gruntu należącego do jednostek samorządu terytorialnego bądź ich związków w użytkowanie wieczyste może ulec rozwiązaniu przed upływem określonego w niej terminu, jeżeli wieczysty użytkownik korzysta z gruntu w sposób oczywiście sprzeczny z jego przeznaczeniem określonym w umowie, w szczególności jeżeli wbrew umowie użytkownik nie wzniósł określonych w niej budynków lub urządzeń.
 ###### Art. 241
@@ -1758,29 +1788,52 @@ Wzorzec wydany w czasie trwania stosunku umownego o charakterze ciągłym wiąż
 Oceny zgodności postanowienia umowy z dobrymi obyczajami dokonuje się według stanu z chwili zawarcia umowy, biorąc pod uwagę jej treść, okoliczności zawarcia oraz uwzględniając umowy pozostające w związku z umową obejmującą postanowienie będące przedmiotem oceny.
 ###### Art. 385[3]
 W razie wątpliwości uważa się, że niedozwolonymi postanowieniami umownymi są te, które w szczególności:
-  1) wyłączają lub ograniczają odpowiedzialność względem konsumenta za szkody na osobie;
-  2) wyłączają lub istotnie ograniczają odpowiedzialność względem konsumenta za niewykonanie lub nienależyte wykonanie zobowiązania;
-  3) wyłączają lub istotnie ograniczają potrącenie wierzytelności konsumenta z wierzytelnością drugiej strony;
-  4) przewidują postanowienia, z którymi konsument nie miał możliwości zapoznać się przed zawarciem umowy;
-  5) zezwalają kontrahentowi konsumenta na przeniesienie praw i przekazanie obowiązków wynikających z umowy bez zgody konsumenta;
-  6) uzależniają zawarcie umowy od przyrzeczenia przez konsumenta zawierania w przyszłości dalszych umów podobnego rodzaju;
-  7) uzależniają zawarcie, treść lub wykonanie umowy od zawarcia innej umowy, niemającej bezpośredniego związku z umową zawierającą oceniane postanowienie;
-  8) uzależniają spełnienie świadczenia od okoliczności zależnych tylko od woli kontrahenta konsumenta;
-  9) przyznają kontrahentowi konsumenta uprawnienia do dokonywania wiążącej interpretacji umowy;
-  10) uprawniają kontrahenta konsumenta do jednostronnej zmiany umowy bez ważnej przyczyny wskazanej w tej umowie;
-  11) przyznają tylko kontrahentowi konsumenta uprawnienie do stwierdzania zgodności świadczenia z umową;
-  12) wyłączają obowiązek zwrotu konsumentowi uiszczonej zapłaty za świadczenie niespełnione w całości lub części, jeżeli konsument zrezygnuje z zawarcia umowy lub jej wykonania;
-  13) przewidują utratę prawa żądania zwrotu świadczenia konsumenta spełnionego wcześniej niż świadczenie kontrahenta, gdy strony wypowiadają, rozwiązują lub odstępują od umowy;
-  14) pozbawiają wyłącznie konsumenta uprawnienia do rozwiązania umowy, odstąpienia od niej lub jej wypowiedzenia;
-  15) zastrzegają dla kontrahenta konsumenta uprawnienie wypowiedzenia umowy zawartej na czas nieoznaczony, bez wskazania ważnych przyczyn i stosownego terminu wypowiedzenia;
-  16) nakładają wyłącznie na konsumenta obowiązek zapłaty ustalonej sumy na wypadek rezygnacji z zawarcia lub wykonania umowy;
-  17) nakładają na konsumenta, który nie wykonał zobowiązania lub odstąpił od umowy, obowiązek zapłaty rażąco wygórowanej kary umownej lub odstępnego;
-  18) stanowią, że umowa zawarta na czas oznaczony ulega przedłużeniu, o ile konsument, dla którego zastrzeżono rażąco krótki termin, nie złoży przeciwnego oświadczenia;
-  19) przewidują wyłącznie dla kontrahenta konsumenta jednostronne uprawnienie do zmiany, bez ważnych przyczyn, istotnych cech świadczenia;
-  20) przewidują uprawnienie kontrahenta konsumenta do określenia lub podwyższenia ceny lub wynagrodzenia po zawarciu umowy bez przyznania konsumentowi prawa odstąpienia od umowy;
-  21) uzależniają odpowiedzialność kontrahenta konsumenta od wykonania zobowiązań przez osoby, za pośrednictwem których kontrahent konsumenta zawiera umowę lub przy których pomocy wykonuje swoje zobowiązanie, albo uzależniają tę odpowiedzialność od spełnienia przez konsumenta nadmiernie uciążliwych formalności;
-  22) przewidują obowiązek wykonania zobowiązania przez konsumenta mimo niewykonania lub nienależytego wykonania zobowiązania przez jego kontrahenta;
-  23) wyłączają jurysdykcję sądów polskich lub poddają sprawę pod rozstrzygnięcie sądu polubownego polskiego lub zagranicznego albo innego organu, a także narzucają rozpoznanie sprawy przez sąd, który wedle ustawy nie jest miejscowo właściwy.
+1) wyłączają lub ograniczają odpowiedzialność względem konsumenta za szkody na osobie;
+
+2) wyłączają lub istotnie ograniczają odpowiedzialność względem konsumenta za niewykonanie lub nienależyte wykonanie zobowiązania;
+
+3) wyłączają lub istotnie ograniczają potrącenie wierzytelności konsumenta z wierzytelnością drugiej strony;
+
+4) przewidują postanowienia, z którymi konsument nie miał możliwości zapoznać się przed zawarciem umowy;
+
+5) zezwalają kontrahentowi konsumenta na przeniesienie praw i przekazanie obowiązków wynikających z umowy bez zgody konsumenta;
+
+6) uzależniają zawarcie umowy od przyrzeczenia przez konsumenta zawierania w przyszłości dalszych umów podobnego rodzaju;
+
+7) uzależniają zawarcie, treść lub wykonanie umowy od zawarcia innej umowy, niemającej bezpośredniego związku z umową zawierającą oceniane postanowienie;
+
+8) uzależniają spełnienie świadczenia od okoliczności zależnych tylko od woli kontrahenta konsumenta;
+
+9) przyznają kontrahentowi konsumenta uprawnienia do dokonywania wiążącej interpretacji umowy;
+
+10) uprawniają kontrahenta konsumenta do jednostronnej zmiany umowy bez ważnej przyczyny wskazanej w tej umowie;
+
+11) przyznają tylko kontrahentowi konsumenta uprawnienie do stwierdzania zgodności świadczenia z umową;
+
+12) wyłączają obowiązek zwrotu konsumentowi uiszczonej zapłaty za świadczenie niespełnione w całości lub części, jeżeli konsument zrezygnuje z zawarcia umowy lub jej wykonania;
+
+13) przewidują utratę prawa żądania zwrotu świadczenia konsumenta spełnionego wcześniej niż świadczenie kontrahenta, gdy strony wypowiadają, rozwiązują lub odstępują od umowy;
+
+14) pozbawiają wyłącznie konsumenta uprawnienia do rozwiązania umowy, odstąpienia od niej lub jej wypowiedzenia;
+
+15) zastrzegają dla kontrahenta konsumenta uprawnienie wypowiedzenia umowy zawartej na czas nieoznaczony, bez wskazania ważnych przyczyn i stosownego terminu wypowiedzenia;
+
+16) nakładają wyłącznie na konsumenta obowiązek zapłaty ustalonej sumy na wypadek rezygnacji z zawarcia lub wykonania umowy;
+
+17) nakładają na konsumenta, który nie wykonał zobowiązania lub odstąpił od umowy, obowiązek zapłaty rażąco wygórowanej kary umownej lub odstępnego;
+
+18) stanowią, że umowa zawarta na czas oznaczony ulega przedłużeniu, o ile konsument, dla którego zastrzeżono rażąco krótki termin, nie złoży przeciwnego oświadczenia;
+
+19) przewidują wyłącznie dla kontrahenta konsumenta jednostronne uprawnienie do zmiany, bez ważnych przyczyn, istotnych cech świadczenia;
+
+20) przewidują uprawnienie kontrahenta konsumenta do określenia lub podwyższenia ceny lub wynagrodzenia po zawarciu umowy bez przyznania konsumentowi prawa odstąpienia od umowy;
+
+21) uzależniają odpowiedzialność kontrahenta konsumenta od wykonania zobowiązań przez osoby, za pośrednictwem których kontrahent konsumenta zawiera umowę lub przy których pomocy wykonuje swoje zobowiązanie, albo uzależniają tę odpowiedzialność od spełnienia przez konsumenta nadmiernie uciążliwych formalności;
+
+22) przewidują obowiązek wykonania zobowiązania przez konsumenta mimo niewykonania lub nienależytego wykonania zobowiązania przez jego kontrahenta;
+
+23) wyłączają jurysdykcję sądów polskich lub poddają sprawę pod rozstrzygnięcie sądu polubownego polskiego lub zagranicznego albo innego organu, a także narzucają rozpoznanie sprawy przez sąd, który wedle ustawy nie jest miejscowo właściwy.
+
 ###### Art. 385[4]
 §1. Umowa między przedsiębiorcami stosującymi różne wzorce umów nie obejmuje tych postanowień wzorców, które są ze sobą sprzeczne.
 
@@ -1881,10 +1934,14 @@ Obowiązek wydania korzyści lub zwrotu jej wartości wygasa, jeżeli ten, kto k
 
 ###### Art. 411
 Nie można żądać zwrotu świadczenia:
-  1) jeżeli spełniający świadczenie wiedział, że nie był do świadczenia zobowiązany, chyba że spełnienie świadczenia nastąpiło z zastrzeżeniem zwrotu albo w celu uniknięcia przymusu lub w wykonaniu nieważnej czynności prawnej;
-  2) jeżeli spełnienie świadczenia czyni zadość zasadom współżycia społecznego;
-  3) jeżeli świadczenie zostało spełnione w celu zadośćuczynienia przedawnionemu roszczeniu;
-  4) jeżeli świadczenie zostało spełnione, zanim wierzytelność stała się wymagalna.
+1) jeżeli spełniający świadczenie wiedział, że nie był do świadczenia zobowiązany, chyba że spełnienie świadczenia nastąpiło z zastrzeżeniem zwrotu albo w celu uniknięcia przymusu lub w wykonaniu nieważnej czynności prawnej;
+
+2) jeżeli spełnienie świadczenia czyni zadość zasadom współżycia społecznego;
+
+3) jeżeli świadczenie zostało spełnione w celu zadośćuczynienia przedawnionemu roszczeniu;
+
+4) jeżeli świadczenie zostało spełnione, zanim wierzytelność stała się wymagalna.
+
 ###### Art. 412
 Sąd może orzec przepadek świadczenia na rzecz Skarbu Państwa, jeżeli świadczenie to zostało świadomie spełnione w zamian za dokonanie czynu zabronionego przez ustawę lub w celu niegodziwym. Jeżeli przedmiot świadczenia został zużyty lub utracony, przepadkowi może ulec jego wartość.
 ###### Art. 413
@@ -2157,10 +2214,14 @@ Jeżeli wierzyciel odmawia pokwitowania, dłużnik może powstrzymać się ze sp
 Z pokwitowania zapłaty dłużnej sumy wynika domniemanie zapłaty należności ubocznych. Z pokwitowania świadczenia okresowego wynika domniemanie, że spełnione zostały również świadczenia okresowe wymagalne wcześniej.
 ###### Art. 467
 Poza wypadkami przewidzianymi w innych przepisach dłużnik może złożyć przedmiot świadczenia do depozytu sądowego:
-  1) jeżeli wskutek okoliczności, za które nie ponosi odpowiedzialności, nie wie, kto jest wierzycielem, albo nie zna miejsca zamieszkania lub siedziby wierzyciela;
-  2) jeżeli wierzyciel nie ma pełnej zdolności do czynności prawnych ani przedstawiciela uprawnionego do przyjęcia świadczenia;
-  3) jeżeli powstał spór, kto jest wierzycielem;
-  4) jeżeli z powodu innych okoliczności dotyczących osoby wierzyciela świadczenie nie może być spełnione.
+1) jeżeli wskutek okoliczności, za które nie ponosi odpowiedzialności, nie wie, kto jest wierzycielem, albo nie zna miejsca zamieszkania lub siedziby wierzyciela;
+
+2) jeżeli wierzyciel nie ma pełnej zdolności do czynności prawnych ani przedstawiciela uprawnionego do przyjęcia świadczenia;
+
+3) jeżeli powstał spór, kto jest wierzycielem;
+
+4) jeżeli z powodu innych okoliczności dotyczących osoby wierzyciela świadczenie nie może być spełnione.
+
 ###### Art. 468
 §1. O złożeniu przedmiotu świadczenia do depozytu sądowego dłużnik powinien niezwłocznie zawiadomić wierzyciela, chyba że zawiadomienie napotyka trudne do przezwyciężenia przeszkody. Zawiadomienie powinno nastąpić na piśmie.
 
@@ -2314,10 +2375,14 @@ Przepisy o zaliczeniu zapłaty stosuje się odpowiednio do potrącenia.
 Zajęcie wierzytelności przez osobę trzecią wyłącza umorzenie tej wierzytelności przez potrącenie tylko wtedy, gdy dłużnik stał się wierzycielem swego wierzyciela dopiero po dokonaniu zajęcia albo gdy jego wierzytelność stała się wymagalna po tej chwili, a przy tym dopiero później aniżeli wierzytelność zajęta.
 ###### Art. 505
 Nie mogą być umorzone przez potrącenie:
-  1) wierzytelności nieulegające zajęciu;
-  2) wierzytelności o dostarczenie środków utrzymania;
-  3) wierzytelności wynikające z czynów niedozwolonych;
-  4) wierzytelności, co do których potrącenie jest wyłączone przez przepisy szczególne.
+1) wierzytelności nieulegające zajęciu;
+
+2) wierzytelności o dostarczenie środków utrzymania;
+
+3) wierzytelności wynikające z czynów niedozwolonych;
+
+4) wierzytelności, co do których potrącenie jest wyłączone przez przepisy szczególne.
+
 ###### Art. 506
 §1. Jeżeli w celu umorzenia zobowiązania dłużnik zobowiązuje się za zgodą wierzyciela spełnić inne świadczenie albo nawet to samo świadczenie, lecz z innej podstawy prawnej, zobowiązanie dotychczasowe wygasa (odnowienie).
 
@@ -2368,10 +2433,14 @@ Zbywca wierzytelności ponosi względem nabywcy odpowiedzialność za to, że wi
 ###### Art. 518
 §1. Osoba trzecia, która spłaca wierzyciela, nabywa spłaconą wierzytelność do wysokości dokonanej zapłaty:
 
-  1) jeżeli płaci cudzy dług, za który jest odpowiedzialna osobiście albo pewnymi przedmiotami majątkowymi;
-  2) jeżeli przysługuje jej prawo, przed którym spłacona wierzytelność ma pierwszeństwo zaspokojenia;
-  3) jeżeli działa za zgodą dłużnika w celu wstąpienia w prawa wierzyciela; zgoda dłużnika powinna być pod nieważnością wyrażona na piśmie;
-  4) jeżeli to przewidują przepisy szczególne.
+1) jeżeli płaci cudzy dług, za który jest odpowiedzialna osobiście albo pewnymi przedmiotami majątkowymi;
+
+2) jeżeli przysługuje jej prawo, przed którym spłacona wierzytelność ma pierwszeństwo zaspokojenia;
+
+3) jeżeli działa za zgodą dłużnika w celu wstąpienia w prawa wierzyciela; zgoda dłużnika powinna być pod nieważnością wyrażona na piśmie;
+
+4) jeżeli to przewidują przepisy szczególne.
+
 §2. W wypadkach powyższych wierzyciel nie może odmówić przyjęcia świadczenia, które jest już wymagalne.
 
 §3. Jeżeli wierzyciel został spłacony przez osobę trzecią tylko w części, przysługuje mu co do pozostałej części pierwszeństwo zaspokojenia przed wierzytelnością, która przeszła na osobę trzecią wskutek zapłaty częściowej.
@@ -2385,8 +2454,10 @@ Zmiana dłużnika
 
 §2. Przejęcie długu może nastąpić:
 
-  1) przez umowę między wierzycielem a osobą trzecią za zgodą dłużnika; oświadczenie dłużnika może być złożone którejkolwiek ze stron;
-  2) przez umowę między dłużnikiem a osobą trzecią za zgodą wierzyciela; oświadczenie wierzyciela może być złożone którejkolwiek ze stron; jest ono bezskuteczne, jeżeli wierzyciel nie wiedział, że osoba przejmująca dług jest niewypłacalna.
+1) przez umowę między wierzycielem a osobą trzecią za zgodą dłużnika; oświadczenie dłużnika może być złożone którejkolwiek ze stron;
+
+2) przez umowę między dłużnikiem a osobą trzecią za zgodą wierzyciela; oświadczenie wierzyciela może być złożone którejkolwiek ze stron; jest ono bezskuteczne, jeżeli wierzyciel nie wiedział, że osoba przejmująca dług jest niewypłacalna.
+
 ###### Art. 520
 Każda ze stron, które zawarły umowę o przejęcie długu, może wyznaczyć osobie, której zgoda jest potrzebna do skuteczności przejęcia, odpowiedni termin do wyrażenia zgody; bezskuteczny upływ wyznaczonego terminu jest jednoznaczny z odmówieniem zgody.
 ###### Art. 521
@@ -2526,8 +2597,10 @@ Wystawienie rzeczy w miejscu sprzedaży na widok publiczny z oznaczeniem ceny uw
 
 ###### Art. 549
 Jeżeli kupujący zastrzegł sobie oznaczenie kształtu, wymiaru lub innych właściwości rzeczy albo terminu i miejsca wydania, a dopuszcza się zwłoki z dokonaniem oznaczenia, sprzedawca może:
-  1) wykonać uprawnienia, które przysługują wierzycielowi w razie zwłoki dłużnika ze spełnieniem świadczenia wzajemnego, albo
-  2) dokonać sam oznaczenia i podać je do wiadomości kupującego wyznaczając mu odpowiedni termin do odmiennego oznaczenia; po bezskutecznym upływie wyznaczonego terminu oznaczenie dokonane przez sprzedawcę staje się dla kupującego wiążące.
+1) wykonać uprawnienia, które przysługują wierzycielowi w razie zwłoki dłużnika ze spełnieniem świadczenia wzajemnego, albo
+
+2) dokonać sam oznaczenia i podać je do wiadomości kupującego wyznaczając mu odpowiedni termin do odmiennego oznaczenia; po bezskutecznym upływie wyznaczonego terminu oznaczenie dokonane przez sprzedawcę staje się dla kupującego wiążące.
+
 ###### Art. 550
 Jeżeli w umowie sprzedaży zastrzeżona została na rzecz kupującego wyłączność bądź w ten sposób, że sprzedawca nie będzie dostarczał rzeczy określonego rodzaju innym osobom, bądź też w ten sposób, że kupujący będzie jedynym odprzedawcą zakupionych rzeczy na oznaczonym obszarze, sprzedawca nie może w zakresie, w którym wyłączność została zastrzeżona, ani bezpośrednio, ani pośrednio zawierać umów sprzedaży, które mogłyby naruszyć wyłączność przysługującą kupującemu.
 ###### Art. 551
@@ -2554,10 +2627,14 @@ Sprzedawca jest odpowiedzialny względem kupującego, jeżeli rzecz sprzedana ma
 ###### Art. 556[1]
 §1. Wada fizyczna polega na niezgodności rzeczy sprzedanej z umową. W szczególności rzecz sprzedana jest niezgodna z umową, jeżeli:
 
-  1) nie ma właściwości, które rzecz tego rodzaju powinna mieć ze względu na cel w umowie oznaczony albo wynikający z okoliczności lub przeznaczenia;
-  2) nie ma właściwości, o których istnieniu sprzedawca zapewnił kupującego, w tym przedstawiając próbkę lub wzór;
-  3) nie nadaje się do celu, o którym kupujący poinformował sprzedawcę przy zawarciu umowy, a sprzedawca nie zgłosił zastrzeżenia co do takiego jej przeznaczenia;
-  4) została kupującemu wydana w stanie niezupełnym.
+1) nie ma właściwości, które rzecz tego rodzaju powinna mieć ze względu na cel w umowie oznaczony albo wynikający z okoliczności lub przeznaczenia;
+
+2) nie ma właściwości, o których istnieniu sprzedawca zapewnił kupującego, w tym przedstawiając próbkę lub wzór;
+
+3) nie nadaje się do celu, o którym kupujący poinformował sprzedawcę przy zawarciu umowy, a sprzedawca nie zgłosił zastrzeżenia co do takiego jej przeznaczenia;
+
+4) została kupującemu wydana w stanie niezupełnym.
+
 §2. Jeżeli kupującym jest konsument, na równi z zapewnieniem sprzedawcy traktuje się publiczne zapewnienia producenta lub jego przedstawiciela, osoby, która wprowadza rzecz do obrotu w zakresie swojej działalności gospodarczej, oraz osoby, która przez umieszczenie na rzeczy sprzedanej swojej nazwy, znaku towarowego lub innego oznaczenia odróżniającego przedstawia się jako producent.
 
 §3. Rzecz sprzedana ma wadę fizyczną także w razie nieprawidłowego jej zamontowania i uruchomienia, jeżeli czynności te zostały wykonane przez sprzedawcę lub osobę trzecią, za którą sprzedawca ponosi odpowiedzialność, albo przez kupującego, który postąpił według instrukcji otrzymanej od sprzedawcy.
@@ -2902,10 +2979,14 @@ KONTRAKTACJA
 Jeżeli przedmiot kontraktacji ma być wytworzony w gospodarstwie prowadzonym przez kilka osób wspólnie, odpowiedzialność tych osób względem kontraktującego jest solidarna.
 ###### Art. 615
 Świadczeniami dodatkowymi ze strony kontraktującego mogą być w szczególności:
-  1) zapewnienie producentowi możności nabycia określonych środków produkcji i uzyskania pomocy finansowej;
-  2) pomoc agrotechniczna i zootechniczna;
-  3) premie pieniężne;
-  4) premie rzeczowe.
+1) zapewnienie producentowi możności nabycia określonych środków produkcji i uzyskania pomocy finansowej;
+
+2) pomoc agrotechniczna i zootechniczna;
+
+3) premie pieniężne;
+
+4) premie rzeczowe.
+
 ###### Art. 616
 Umowa kontraktacyjna powinna być zawarta na piśmie.
 ###### Art. 617
@@ -3493,8 +3574,10 @@ Jeżeli zlecenie wygasło, uważa się je mimo to za istniejące na korzyść pr
 Do umów o świadczenie usług, które nie są uregulowane innymi przepisami, stosuje się odpowiednio przepisy o zleceniu.
 ###### Art. 751
 Z upływem lat dwóch przedawniają się:
-  1) roszczenia o wynagrodzenie za spełnione czynności i o zwrot poniesionych wydatków przysługujące osobom, które stale lub w zakresie działalności przedsiębiorstwa trudnią się czynnościami danego rodzaju; to samo dotyczy roszczeń z tytułu zaliczek udzielonych tym osobom;
-  2) roszczenia z tytułu utrzymania, pielęgnowania, wychowania lub nauki, jeżeli przysługują osobom trudniącym się zawodowo takimi czynnościami albo osobom utrzymującym zakłady na ten cel przeznaczone.
+1) roszczenia o wynagrodzenie za spełnione czynności i o zwrot poniesionych wydatków przysługujące osobom, które stale lub w zakresie działalności przedsiębiorstwa trudnią się czynnościami danego rodzaju; to samo dotyczy roszczeń z tytułu zaliczek udzielonych tym osobom;
+
+2) roszczenia z tytułu utrzymania, pielęgnowania, wychowania lub nauki, jeżeli przysługują osobom trudniącym się zawodowo takimi czynnościami albo osobom utrzymującym zakłady na ten cel przeznaczone.
+
 
 ### TYTUŁ XXII
 
@@ -3622,9 +3705,12 @@ Umowę zawartą na czas oznaczony, a wykonywaną przez strony po upływie termin
 
 ###### Art. 764[4]
 Świadczenie wyrównawcze nie przysługuje agentowi, jeżeli:
-  1) dający zlecenie wypowiedział umowę na skutek okoliczności, za które odpowiedzialność ponosi agent, usprawiedliwiających wypowiedzenie umowy bez zachowania terminów wypowiedzenia;
-  2) agent wypowiedział umowę, chyba że wypowiedzenie jest uzasadnione okolicznościami, za które odpowiada dający zlecenie, albo jest usprawiedliwione wiekiem, ułomnością lub chorobą agenta, a względy słuszności nie pozwalają domagać się od niego dalszego wykonywania czynności agenta;
-  3) agent za zgodą dającego zlecenie przeniósł na inną osobę swoje prawa i obowiązki wynikające z umowy.
+1) dający zlecenie wypowiedział umowę na skutek okoliczności, za które odpowiedzialność ponosi agent, usprawiedliwiających wypowiedzenie umowy bez zachowania terminów wypowiedzenia;
+
+2) agent wypowiedział umowę, chyba że wypowiedzenie jest uzasadnione okolicznościami, za które odpowiada dający zlecenie, albo jest usprawiedliwione wiekiem, ułomnością lub chorobą agenta, a względy słuszności nie pozwalają domagać się od niego dalszego wykonywania czynności agenta;
+
+3) agent za zgodą dającego zlecenie przeniósł na inną osobę swoje prawa i obowiązki wynikające z umowy.
+
 ###### Art. 764[5]
 Do czasu rozwiązania umowy strony nie mogą umówić się w sposób odbiegający na niekorzyść agenta od postanowień art. 764[3] i art. 764[4].
 ###### Art. 764[6]
@@ -3822,8 +3908,10 @@ Przepisy ogólne
 
 §2. Świadczenie ubezpieczyciela polega w szczególności na zapłacie:
 
-  1) przy ubezpieczeniu majątkowym - określonego odszkodowania za szkodę powstałą wskutek przewidzianego w umowie wypadku;
-  2) przy ubezpieczeniu osobowym - umówionej sumy pieniężnej, renty lub innego świadczenia w razie zajścia przewidzianego w umowie wypadku w życiu osoby ubezpieczonej.
+1) przy ubezpieczeniu majątkowym - określonego odszkodowania za szkodę powstałą wskutek przewidzianego w umowie wypadku;
+
+2) przy ubezpieczeniu osobowym - umówionej sumy pieniężnej, renty lub innego świadczenia w razie zajścia przewidzianego w umowie wypadku w życiu osoby ubezpieczonej.
+
 §3. Do renty z umowy ubezpieczenia nie stosuje się przepisów kodeksu niniejszego o rencie.
 
 §4. Przepisy art. 385[1]-385[3] stosuje się odpowiednio, jeżeli ubezpieczającym jest osoba fizyczna zawierająca umowę związaną bezpośrednio z jej działalnością gospodarczą lub zawodową.
@@ -4006,8 +4094,10 @@ Ubezpieczenia osobowe
 ###### Art. 829
 §1. Ubezpieczenie osobowe może w szczególności dotyczyć:
 
-  1) przy ubezpieczeniu na życie - śmierci osoby ubezpieczonej lub dożycia przez nią oznaczonego wieku;
-  2) przy ubezpieczeniu następstw nieszczęśliwych wypadków - uszkodzenia ciała, rozstroju zdrowia lub śmierci wskutek nieszczęśliwego wypadku.
+1) przy ubezpieczeniu na życie - śmierci osoby ubezpieczonej lub dożycia przez nią oznaczonego wieku;
+
+2) przy ubezpieczeniu następstw nieszczęśliwych wypadków - uszkodzenia ciała, rozstroju zdrowia lub śmierci wskutek nieszczęśliwego wypadku.
+
 §2. W umowie ubezpieczenia na życie zawartej na cudzy rachunek, odpowiedzialność ubezpieczyciela rozpoczyna się nie wcześniej niż następnego dnia po tym, gdy ubezpieczony oświadczył stronie wskazanej w umowie, że chce skorzystać z zastrzeżenia na jego rzecz ochrony ubezpieczeniowej. Oświadczenie powinno obejmować także wysokość sumy ubezpieczenia. Zmiana umowy na niekorzyść ubezpieczonego lub osoby uprawnionej do otrzymania sumy ubezpieczenia w razie śmierci ubezpieczonego wymaga zgody tego ubezpieczonego.
 
 ###### Art. 830
@@ -4285,8 +4375,10 @@ DAROWIZNA
 
 ###### Art. 889
 Nie stanowią darowizny następujące bezpłatne przysporzenia:
-  1) gdy zobowiązanie do bezpłatnego świadczenia wynika z umowy uregulowanej innymi przepisami kodeksu;
-  2) gdy kto zrzeka się prawa, którego jeszcze nie nabył albo które nabył w taki sposób, że w razie zrzeczenia się prawo jest uważane za nienabyte.
+1) gdy zobowiązanie do bezpłatnego świadczenia wynika z umowy uregulowanej innymi przepisami kodeksu;
+
+2) gdy kto zrzeka się prawa, którego jeszcze nie nabył albo które nabył w taki sposób, że w razie zrzeczenia się prawo jest uważane za nienabyte.
+
 ###### Art. 890
 §1. Oświadczenie darczyńcy powinno być złożone w formie aktu notarialnego. Jednakże umowa darowizny zawarta bez zachowania tej formy staje się ważna, jeżeli przyrzeczone świadczenie zostało spełnione.
 
@@ -4552,9 +4644,12 @@ Spadkobierca nabywa spadek z chwilą otwarcia spadku.
 ###### Art. 928
 §1. Spadkobierca może być uznany przez sąd za niegodnego, jeżeli:
 
-  1) dopuścił się umyślnie ciężkiego przestępstwa przeciwko spadkodawcy;
-  2) podstępem lub groźbą nakłonił spadkodawcę do sporządzenia lub odwołania testamentu albo w taki sam sposób przeszkodził mu w dokonaniu jednej z tych czynności;
-  3) umyślnie ukrył lub zniszczył testament spadkodawcy, podrobił lub przerobił jego testament albo świadomie skorzystał z testamentu przez inną osobę podrobionego lub przerobionego.
+1) dopuścił się umyślnie ciężkiego przestępstwa przeciwko spadkodawcy;
+
+2) podstępem lub groźbą nakłonił spadkodawcę do sporządzenia lub odwołania testamentu albo w taki sam sposób przeszkodził mu w dokonaniu jednej z tych czynności;
+
+3) umyślnie ukrył lub zniszczył testament spadkodawcy, podrobił lub przerobił jego testament albo świadomie skorzystał z testamentu przez inną osobę podrobionego lub przerobionego.
+
 §2. Spadkobierca niegodny zostaje wyłączony od dziedziczenia, tak jakby nie dożył otwarcia spadku.
 
 ###### Art. 929
@@ -4613,9 +4708,12 @@ Przepisów o powołaniu do dziedziczenia z ustawy nie stosuje się do małżonka
 
 ###### Art. 937
 Jeżeli skutki przysposobienia polegają wyłącznie na powstaniu stosunku między przysposabiającym a przysposobionym, stosuje się przepisy poniższe:
-  1) przysposobiony dziedziczy po przysposabiającym na równi z jego dziećmi, a zstępni przysposobionego dziedziczą po przysposabiającym na tych samych zasadach co dalsi zstępni spadkodawcy;
-  2) przysposobiony i jego zstępni nie dziedziczą po krewnych przysposabiającego, a krewni przysposabiającego nie dziedziczą po przysposobionym i jego zstępnych;
-  3) rodzice przysposobionego nie dziedziczą po przysposobionym, a zamiast nich dziedziczy po przysposobionym przysposabiający; poza tym przysposobienie nie narusza powołania do dziedziczenia wynikającego z pokrewieństwa.
+1) przysposobiony dziedziczy po przysposabiającym na równi z jego dziećmi, a zstępni przysposobionego dziedziczą po przysposabiającym na tych samych zasadach co dalsi zstępni spadkodawcy;
+
+2) przysposobiony i jego zstępni nie dziedziczą po krewnych przysposabiającego, a krewni przysposabiającego nie dziedziczą po przysposobionym i jego zstępnych;
+
+3) rodzice przysposobionego nie dziedziczą po przysposobionym, a zamiast nich dziedziczy po przysposobionym przysposabiający; poza tym przysposobienie nie narusza powołania do dziedziczenia wynikającego z pokrewieństwa.
+
 ###### Art. 938
 Dziadkowie spadkodawcy, jeżeli znajdują się w niedostatku i nie mogą otrzymać należnych im środków utrzymania od osób, na których ciąży względem nich ustawowy obowiązek alimentacyjny, mogą żądać od spadkobiercy nieobciążonego takim obowiązkiem środków utrzymania w stosunku do swoich potrzeb i do wartości jego udziału spadkowego. Spadkobierca może uczynić zadość temu roszczeniu także w ten sposób, że zapłaci dziadkom spadkodawcy sumę pieniężną odpowiadającą wartości jednej czwartej części swojego udziału spadkowego.
 ###### Art. 939
@@ -4654,9 +4752,12 @@ Spadkodawca może w każdej chwili odwołać zarówno cały testament, jak i jeg
 ###### Art. 945
 §1. Testament jest nieważny, jeżeli został sporządzony:
 
-  1) w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli;
-  2) pod wpływem błędu uzasadniającego przypuszczenie, że gdyby spadkodawca nie działał pod wpływem błędu, nie sporządziłby testamentu tej treści;
-  3) pod wpływem groźby.
+1) w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli;
+
+2) pod wpływem błędu uzasadniającego przypuszczenie, że gdyby spadkodawca nie działał pod wpływem błędu, nie sporządziłby testamentu tej treści;
+
+3) pod wpływem groźby.
+
 §2. Na nieważność testamentu z powyższych przyczyn nie można się powołać po upływie lat trzech od dnia, w którym osoba mająca w tym interes dowiedziała się o przyczynie nieważności, a w każdym razie po upływie lat dziesięciu od otwarcia spadku.
 
 ###### Art. 946
@@ -4713,11 +4814,16 @@ Oddział 3
 Przepisy wspólne dla testamentów zwykłych i szczególnych
 ###### Art. 956
 Nie może być świadkiem przy sporządzaniu testamentu:
-  1) kto nie ma pełnej zdolności do czynności prawnych;
-  2) niewidomy, głuchy lub niemy;
-  3) kto nie może czytać i pisać;
-  4) kto nie włada językiem, w którym spadkodawca sporządza testament;
-  5) skazany prawomocnie wyrokiem sądowym za fałszywe zeznania.
+1) kto nie ma pełnej zdolności do czynności prawnych;
+
+2) niewidomy, głuchy lub niemy;
+
+3) kto nie może czytać i pisać;
+
+4) kto nie włada językiem, w którym spadkodawca sporządza testament;
+
+5) skazany prawomocnie wyrokiem sądowym za fałszywe zeznania.
+
 ###### Art. 957
 §1. Nie może być świadkiem przy sporządzaniu testamentu osoba, dla której w testamencie została przewidziana jakakolwiek korzyść. Nie mogą być również świadkami: małżonek tej osoby, jej krewni lub powinowaci pierwszego i drugiego stopnia oraz osoby pozostające z nią w stosunku przysposobienia.
 
@@ -4798,10 +4904,14 @@ Zapis windykacyjny
 
 §2. Przedmiotem zapisu windykacyjnego może być:
 
-  1) rzecz oznaczona co do tożsamości;
-  2) zbywalne prawo majątkowe;
-  3) przedsiębiorstwo lub gospodarstwo rolne;
-  4) ustanowienie na rzecz zapisobiercy użytkowania lub służebności.
+1) rzecz oznaczona co do tożsamości;
+
+2) zbywalne prawo majątkowe;
+
+3) przedsiębiorstwo lub gospodarstwo rolne;
+
+4) ustanowienie na rzecz zapisobiercy użytkowania lub służebności.
+
 ###### Art. 981[2]
 Zapis windykacyjny jest bezskuteczny, jeżeli w chwili otwarcia spadku przedmiot zapisu nie należy do spadkodawcy albo spadkodawca był zobowiązany do jego zbycia. Jeżeli przedmiotem zapisu jest ustanowienie dla zapisobiercy użytkowania lub służebności, zapis jest bezskuteczny, gdy w chwili otwarcia spadku przedmiot majątkowy, który miał być obciążony użytkowaniem lub służebnością nie należy do spadku albo spadkodawca był zobowiązany do jego zbycia.
 ###### Art. 981[3]
@@ -4933,9 +5043,12 @@ Jeżeli zmniejszeniu podlega zapis zwykły, którego przedmiot nie da się podzi
 
 ###### Art. 1008
 Spadkodawca może w testamencie pozbawić zstępnych, małżonka i rodziców zachowku (wydziedziczenie), jeżeli uprawniony do zachowku:
-  1) wbrew woli spadkodawcy postępuje uporczywie w sposób sprzeczny z zasadami współżycia społecznego;
-  2) dopuścił się względem spadkodawcy albo jednej z najbliższych mu osób umyślnego przestępstwa przeciwko życiu, zdrowiu lub wolności albo rażącej obrazy czci;
-  3) uporczywie nie dopełnia względem spadkodawcy obowiązków rodzinnych.
+1) wbrew woli spadkodawcy postępuje uporczywie w sposób sprzeczny z zasadami współżycia społecznego;
+
+2) dopuścił się względem spadkodawcy albo jednej z najbliższych mu osób umyślnego przestępstwa przeciwko życiu, zdrowiu lub wolności albo rażącej obrazy czci;
+
+3) uporczywie nie dopełnia względem spadkodawcy obowiązków rodzinnych.
+
 ###### Art. 1009
 Przyczyna wydziedziczenia uprawnionego do zachowku powinna wynikać z treści testamentu.
 ###### Art. 1010
@@ -4979,8 +5092,10 @@ Jeżeli przed upływem terminu do złożenia oświadczenia o przyjęciu lub o od
 ###### Art. 1019
 §1. Jeżeli oświadczenie o przyjęciu lub o odrzuceniu spadku zostało złożone pod wpływem błędu lub groźby, stosuje się przepisy o wadach oświadczenia woli z następującymi zmianami:
 
-  1) uchylenie się od skutków prawnych oświadczenia powinno nastąpić przed sądem;
-  2) spadkobierca powinien jednocześnie oświadczyć, czy i jak spadek przyjmuje, czy też go odrzuca.
+1) uchylenie się od skutków prawnych oświadczenia powinno nastąpić przed sądem;
+
+2) spadkobierca powinien jednocześnie oświadczyć, czy i jak spadek przyjmuje, czy też go odrzuca.
+
 §2. Spadkobierca, który pod wpływem błędu lub groźby nie złożył żadnego oświadczenia w terminie, może w powyższy sposób uchylić się od skutków prawnych niezachowania terminu.
 
 §3. Uchylenie się od skutków prawnych oświadczenia o przyjęciu lub o odrzuceniu spadku wymaga zatwierdzenia przez sąd.
@@ -5153,10 +5268,14 @@ PRZEPISY SZCZEGÓLNE O DZIEDZICZENIU GOSPODARSTW ROLNYCH
 Do dziedziczenia z ustawy gospodarstw rolnych obejmujących grunty rolne o powierzchni przekraczającej 1 ha stosuje się przepisy tytułów poprzedzających księgi niniejszej ze zmianami wynikającymi z przepisów poniższych.
 ###### Art. 1059
 Spadkobiercy dziedziczą z ustawy gospodarstwo rolne, jeżeli w chwili otwarcia spadku:
-  1) stale pracują bezpośrednio przy produkcji rolnej albo
-  2) mają przygotowanie zawodowe do prowadzenia produkcji rolnej, albo
-  3) są małoletni bądź też pobierają naukę zawodu lub uczęszczają do szkół, albo
-  4) są trwale niezdolni do pracy.
+1) stale pracują bezpośrednio przy produkcji rolnej albo
+
+2) mają przygotowanie zawodowe do prowadzenia produkcji rolnej, albo
+
+3) są małoletni bądź też pobierają naukę zawodu lub uczęszczają do szkół, albo
+
+4) są trwale niezdolni do pracy.
+
 ###### Art. 1060
 W granicach określonych w art. 931 § 2 wnuki spadkodawcy, które w chwili otwarcia spadku odpowiadają warunkom przewidzianym w art. 1059 pkt 1 i 2, dziedziczą gospodarstwo rolne także wtedy, gdy ich ojciec lub matka nie mogą gospodarstwa dziedziczyć dla braku warunków przewidzianych w art. 1059. Przepis ten stosuje się odpowiednio do dalszych zstępnych.
 ###### Art. 1061
@@ -5222,9 +5341,12 @@ Przepisy tytułu niniejszego stosuje się odpowiednio w wypadku, gdy do spadku n
 ###### Art. 1087
 §1. Należący do spadku wkład gruntowy w rolniczej spółdzielni produkcyjnej dziedziczą ci spośród spadkobierców, którzy w chwili otwarcia spadku:
 
-  1) są członkami tej spółdzielni albo
-  2) bądź są małoletni, bądź też pobierają naukę zawodu lub uczęszczają do szkół, albo
-  3) są trwale niezdolni do pracy.
+1) są członkami tej spółdzielni albo
+
+2) bądź są małoletni, bądź też pobierają naukę zawodu lub uczęszczają do szkół, albo
+
+3) są trwale niezdolni do pracy.
+
 §2. W braku spadkobierców określonych w punkcie pierwszym paragrafu poprzedzającego wkład gruntowy w rolniczej spółdzielni produkcyjnej dziedziczą również spadkobiercy, którzy pracują w gospodarstwie rolnym spółdzielni albo w ciągu sześciu miesięcy od otwarcia spadku zostaną członkami tej spółdzielni.
 
 §3. Przepisy paragrafów poprzedzających dotyczą również działki przyzagrodowej i siedliskowej, jeżeli należą one do spadku.
